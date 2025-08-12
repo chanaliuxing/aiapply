@@ -1,5 +1,12 @@
 # apply-copilot
 
+## Introduction & Goals
+apply-copilot accelerates job applications by reading job pages, tailoring resumes,
+auto-filling ATS forms and optionally submitting them under user control.
+Goals include completing an application within 1-2 minutes, achieving ≥97% field
+accuracy on friendly pages, generating tailored but factual content, and recording
+logs and screenshots for audit.
+
 Minimal scaffold of the **apply-copilot** project. It contains a FastAPI backend
 and placeholders for a Chrome extension, local companion and mock ATS pages.
 
