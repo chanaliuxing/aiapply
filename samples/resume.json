@@ -1,0 +1,17 @@
+{
+  "resume_profile_id": "R123",
+  "evidence_vault": [
+    {
+      "id": "E001",
+      "text": "Built ecommerce dashboards",
+      "skills": ["SQL", "Tableau"],
+      "year": 2024
+    }
+  ],
+  "user_profile": {
+    "work_auth": "CA_PR",
+    "location": "Vancouver",
+    "relocate": true,
+    "notice_period": "2w"
+  }
+}

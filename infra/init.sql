@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS jobs (
+    id SERIAL PRIMARY KEY,
+    company TEXT
+);

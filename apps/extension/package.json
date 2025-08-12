@@ -1,0 +1,8 @@
+{
+  "name": "apply-copilot-extension",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "echo build placeholder",
+    "dev": "echo dev placeholder"
+  }
+}
